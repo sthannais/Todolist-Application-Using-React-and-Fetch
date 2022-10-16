@@ -1,0 +1,19 @@
+.container {
+  margin: auto;
+  width: 50%;
+  border: 1px solid #b0b6b6;
+  background-color: #bfcece;
+  padding: 10px;
+}
+
+h1 {
+  background-color: #ebf8f8;
+  text-align: center;
+  color: #a57c9d;
+  font-size: 100px;
+  font-family: "Roboto", sans-serif;
+}
+
+.input {
+  text-align: center;
+}
